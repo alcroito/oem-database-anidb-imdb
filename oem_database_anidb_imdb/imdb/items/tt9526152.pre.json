@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13830",
+        "imdb": "tt9526152"
+    },
+    "names": [
+        "Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "1"
+    }
+}

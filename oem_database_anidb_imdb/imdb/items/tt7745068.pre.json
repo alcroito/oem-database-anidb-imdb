@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13633",
+        "imdb": "tt7745068"
+    },
+    "names": [
+        "Boku no Hero Academia the Movie: Futari no Hero"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "3"
+    }
+}

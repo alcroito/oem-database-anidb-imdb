@@ -1,12 +1,40 @@
 {
     "identifiers": {
-        "anidb": "10755",
-        "imdb": "tt4054952"
+        "anidb": "10755"
     },
-    "names": [
-        "Gekijouban Fate/Stay Night: Heaven's Feel"
-    ],
-    "parameters": {
-        "default_season": "1"
+    "parts": {
+        "1": {
+            "identifiers": {
+                "imdb": "tt4054952"
+            },
+            "names": [
+                "Gekijouban Fate/Stay Night: Heaven's Feel"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "2": {
+            "identifiers": {
+                "imdb": "tt8091892"
+            },
+            "names": [
+                "Gekijouban Fate/Stay Night: Heaven's Feel"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        },
+        "3": {
+            "identifiers": {
+                "imdb": "tt8092118"
+            },
+            "names": [
+                "Gekijouban Fate/Stay Night: Heaven's Feel"
+            ],
+            "parameters": {
+                "default_season": "0"
+            }
+        }
     }
 }

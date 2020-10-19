@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13207",
+        "imdb": "tt7089882"
+    },
+    "names": [
+        "Gekijouban Hibike! Euphonium: Chikai no Finale"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "18"
+    }
+}

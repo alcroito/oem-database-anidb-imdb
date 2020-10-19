@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "13703",
+        "imdb": "tt8659948"
+    },
+    "names": [
+        "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "5"
+    }
+}

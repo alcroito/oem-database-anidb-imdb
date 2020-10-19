@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "14802",
+        "imdb": "tt11056458"
+    },
+    "names": [
+        "Bang Dream! Film Live"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "11"
+    }
+}

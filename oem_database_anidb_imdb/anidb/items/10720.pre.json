@@ -1,0 +1,13 @@
+{
+    "identifiers": {
+        "anidb": "10720",
+        "imdb": "tt3837248"
+    },
+    "names": [
+        "Love Live! The School Idol Movie"
+    ],
+    "parameters": {
+        "default_season": "0",
+        "episode_offset": "7"
+    }
+}
